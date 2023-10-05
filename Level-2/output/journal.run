@@ -1,0 +1,25 @@
+{"when":1696412899,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Minimal Task from=c:\\Users\\TE372DL\\OneDrive - EY\\Desktop\\Robocorp Training\\Level-2\\robot.yaml","comment":"at task environment setup"}
+{"when":1696412899,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v16.5.0 0.160s Fresh [shared mode] holotree environment ccd453c3-6585-e7e8-86b0-a60d41b936c0. (parent/pid: 27988/22344)"}
+{"when":1696412899,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v16.5.0 0.031s Holotree blueprint is \"1bc5416cd5d20cbc\" [windows_amd64 with 7 workers on 8 CPUs]."}
+{"when":1696412900,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v16.5.0 1.440s Restore space from library [with 7 workers on 8 CPUs]."}
+{"when":1696412905,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v16.5.0 4.706s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1696412905,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1696412905,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1696412908,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[4332:python.exe]"}
+{"when":1696412910,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1696412910,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1696412913,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1696413942,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Minimal Task from=c:\\Users\\TE372DL\\OneDrive - EY\\Desktop\\Robocorp Training\\Level-2\\robot.yaml","comment":"at task environment setup"}
+{"when":1696413942,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v16.5.0 0.130s Fresh [shared mode] holotree environment ccd453c3-6585-e7e8-86b0-a60d41b936c0. (parent/pid: 12348/6500)"}
+{"when":1696413942,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v16.5.0 0.028s Holotree blueprint is \"1bc5416cd5d20cbc\" [windows_amd64 with 7 workers on 8 CPUs]."}
+{"when":1696413943,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v16.5.0 0.516s Restore space from library [with 7 workers on 8 CPUs]."}
+{"when":1696413946,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v16.5.0 3.289s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1696413946,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1696413946,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1696413948,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[1096:python.exe]"}
+{"when":1696413960,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[1096:python.exe 2428:cmd.exe]"}
+{"when":1696413961,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[1096:python.exe]"}
+{"when":1696413972,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1696413972,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 0 ... map[]"}
+{"when":1696413972,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1696413975,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}

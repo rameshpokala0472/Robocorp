@@ -1,0 +1,13 @@
+2023-10-04 15:36:01,163 - RPA.core.certificates - INFO - Truststore injection done, using system certificate store to validate HTTPS.
+Traceback (most recent call last):
+  File "C:\ProgramData\robocorp\ht\f7aa289_b1f3c24_1c0bc041\lib\site-packages\robocorp\tasks\_commands.py", line 214, in run
+    tasks: List[ITask] = list(collect_tasks(p, task_names))
+  File "C:\ProgramData\robocorp\ht\f7aa289_b1f3c24_1c0bc041\lib\site-packages\robocorp\tasks\_collect_tasks.py", line 171, in collect_tasks
+    module = import_path(path, root=root)
+  File "C:\ProgramData\robocorp\ht\f7aa289_b1f3c24_1c0bc041\lib\site-packages\robocorp\tasks\_collect_tasks.py", line 94, in import_path
+    spec.loader.exec_module(mod)  # type: ignore[union-attr]
+  File "C:\ProgramData\robocorp\ht\f7aa289_b1f3c24_1c0bc041\lib\site-packages\robocorp\log\_rewrite_importhook.py", line 197, in exec_module
+    exec(co, module.__dict__)
+  File "c:\Users\TE372DL\OneDrive - EY\Desktop\Robocorp Training\Level-2\tasks.py", line 41, in <module>
+    for row in orders:
+NameError: name 'orders' is not defined
